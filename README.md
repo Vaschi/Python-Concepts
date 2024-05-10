@@ -3,4 +3,5 @@
   <h1 alighn="center">🐍 Python-Concepts</h1>
 </h1>  
 As I embark on my journey of learning Python, I've found it invaluable to gather and organize the core concepts that form the foundation of the language. In this guide, I've compiled essential Python concepts and linked to valuable resources to aid in your learning journey.
+
 # 🚕 Table of Contents:

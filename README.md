@@ -9,3 +9,4 @@ As I embark on my journey of learning Python, I've found it invaluable to gather
 # 🚕 Table of Contents:
 - Data Types
 - Regular Expressions
+- Algorithms
